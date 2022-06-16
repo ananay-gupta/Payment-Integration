@@ -1,6 +1,6 @@
 # Payment Integration
 
-# Third Party Pament Integration using Razorpay
+# Third Party Payment Integration using Razorpay
 
 This site is just a small working model implementing third party payment integration using Razorpay which is triggered by a small donate button.
 
